@@ -1,0 +1,15 @@
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
+        left, r = 0, len(nums) - 1
+
+        while left <= r:
+            m = (left + r) // 2
+
+            if nums[m] == target:
+                return m
+            elif nums[m] > target:
+                r = m - 1
+            else:
+                left = m + 1
+        
+        return left
