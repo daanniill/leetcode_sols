@@ -2,30 +2,30 @@
 
 [View problem on LeetCode](https://leetcode.com/problems/search-insert-position/)
 
-- **Difficulty:** Unknown
+- **Difficulty:** Easy
 - **Language:** Code
 - **Solved:** 2026-08-07 22:00 UTC
-- **Runtime:** —
+- **Runtime:** 0 ms
 - **Memory:** —
 
 ## Interview overview
 
 **Patterns:** Binary Search
 
-This solution finds the index where a target value should be inserted in a sorted list to maintain sorted order. It uses a binary search approach to achieve this. The function returns the index where the target should be inserted.
+This solution uses binary search to find the index of a target value in a sorted array. If the target is not found, it returns the index where it should be inserted to maintain the sorted order. The algorithm iteratively narrows down the search range until the target is found or its insertion point is determined.
 
 ### Solution replay
 
 ```mermaid
 flowchart TD
-  n0["Goal<br/>Find the index where 5 should be inserted in the sorted list [1, 3, 5, 6] to maintain sorted order"]
-  n1["Sample input<br/>[1, 3, 5, 6], 5"]
-  n2["Step 1: l = 0, r = 3<br/>l &lt;= r"]
-  n3["Step 2: m = 1<br/>nums[m] &lt; target"]
-  n4["Step 3: l = 2<br/>l &lt;= r"]
-  n5["Step 4: m = 2<br/>nums[m] == target"]
-  n6["Sample output<br/>2, the index where 5 is already present"]
-  inv["Invariant<br/>The list remains sorted"]
+  n0["Goal<br/>The goal is to find the index of the target value in a sorted array, and the output represents this index."]
+  n1["Sample input<br/>nums = [1,3,5,6], target = 5"]
+  n2["Step 1: left = 0<br/>right = 3"]
+  n3["Step 2: mid = 1<br/>nums[1] = 3"]
+  n4["Step 3: mid = 2<br/>nums[2] = 5"]
+  n5["Step 4: return 2<br/>target found"]
+  n6["Sample output<br/>2, the index of the target value"]
+  inv["Invariant<br/>The array remains sorted"]
   n0 --> n1 --> n2 --> n3 --> n4 --> n5 --> n6
   inv -.-> n2
   inv -.-> n3
@@ -35,30 +35,30 @@ flowchart TD
 
 ### Approach
 
-1. Initialize two pointers, left and right, to the start and end of the list
-2. Loop until left is less than or equal to right
-3. Calculate the middle index and compare the middle element to the target
-4. If the middle element is equal to the target, return the middle index
-5. If the middle element is greater than the target, update the right pointer to the index before the middle
-6. If the middle element is less than the target, update the left pointer to the index after the middle
+1. Initialize two pointers, left and right, to the start and end of the array.
+2. Calculate the middle index and compare the middle element to the target.
+3. If the middle element matches the target, return its index.
+4. If the middle element is greater than the target, move the right pointer to the left of the middle index.
+5. If the middle element is less than the target, move the left pointer to the right of the middle index.
+6. Repeat the comparison and pointer adjustment until the target is found or the search range is empty.
 
 ### Complexity
 
-- **Time:** O(log n), where n is the number of elements in the list, because we divide the search space in half at each step
-- **Space:** O(1), because we only use a constant amount of space to store the pointers and the target
+- **Time:** O(log n), because the algorithm divides the search space in half with each iteration.
+- **Space:** O(1), because it only uses a constant amount of space to store the pointers and the target.
 
 ### Complexity self-check
 
 - **Verdict:** optimal
 - **Intended:** O(log n) time and O(1) space
-- This is the best possible time complexity for this problem because we must examine each element at least once in the worst case
+- This is the best possible time complexity for searching a sorted array.
 
 ### Edge cases
 
-- An empty list
-- A list with one element
-- A list with duplicate elements
-- A target that is less than the smallest element in the list
+- An empty array
+- A target value less than the smallest element in the array
+- A target value greater than the largest element in the array
+- A target value that is already present in the array
 
 _AI-generated with Groq; verify the analysis before relying on it._
 
