@@ -15,7 +15,7 @@ Accepted LeetCode submissions, organized one folder per problem and kept up to d
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
-| 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2098498832/) | Easy | Code |
+| 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Code |
 | 0 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098491391/) | Easy | Code |
 | 0 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Code |
 
