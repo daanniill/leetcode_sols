@@ -2,14 +2,14 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**4 solved** · 2 easy · 0 medium · 0 hard · 3 languages
+**4 solved** · 3 easy · 0 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
+- array iteration: 1
 - Arrays & Hashing: 1
 - Binary Search: 1
-- carry-over: 1
-- iteration: 1
+- carry propagation: 1
 - Problem-specific reasoning: 1
 - Stack: 1
 
@@ -17,7 +17,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
-| 0 | [Plus One](https://leetcode.com/problems/plus-one/submissions/2098509941/) | Unknown | Python3 |
+| 0 | [Plus One](https://leetcode.com/problems/plus-one/submissions/2098510171/) | Easy | C++ |
 | 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2098508470/) | Unknown | C++ |
 | 0 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098491391/) | Easy | Code |
 | 0 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Code |
