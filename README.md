@@ -2,7 +2,7 @@
 
 Accepted LeetCode submissions, organized one folder per problem and kept up to date by LeetRepo.
 
-**3 solved** · 3 easy · 0 medium · 0 hard · 1 languages
+**3 solved** · 3 easy · 0 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
@@ -15,7 +15,7 @@ Accepted LeetCode submissions, organized one folder per problem and kept up to d
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
-| 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | Code |
+| 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2098505708/) | Easy | Python3 |
 | 0 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098491391/) | Easy | Code |
 | 0 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Code |
 

@@ -1,31 +1,31 @@
 # 0. Search Insert Position
 
-[View problem on LeetCode](https://leetcode.com/problems/search-insert-position/)
+[View problem on LeetCode](https://leetcode.com/problems/search-insert-position/submissions/2098505708/)
 
 - **Difficulty:** Easy
-- **Language:** Code
+- **Language:** Python3
 - **Solved:** 2026-08-07 22:00 UTC
-- **Runtime:** 0 ms
+- **Runtime:** —
 - **Memory:** —
 
 ## Interview overview
 
 **Patterns:** Binary Search
 
-This solution uses binary search to find the index of a target value in a sorted array. If the target is not found, it returns the index where it should be inserted to maintain sorted order. The algorithm iteratively narrows down the search range until the target is found or the correct insertion point is determined.
+This solution uses binary search to find the target in a sorted array. If the target is found, its index is returned. If not, the index where it should be inserted is returned.
 
 ### Solution replay
 
 ```mermaid
 flowchart TD
-  n0["Goal<br/>The goal is to find the index of the target value in the sorted array, and the output represents the index where the target should be inserted to maintain sorted order"]
+  n0["Goal<br/>Find the index to insert a target value in a sorted array"]
   n1["Sample input<br/>nums = [1,3,5,6], target = 5"]
-  n2["Step 1: l = 0<br/>r = 3"]
-  n3["Step 2: m = 1<br/>nums[m] &lt; target"]
-  n4["Step 3: l = 2<br/>r = 3"]
-  n5["Step 4: m = 2<br/>nums[m] == target"]
-  n6["Sample output<br/>2, the index where the target value is found"]
-  inv["Invariant<br/>The array remains sorted"]
+  n2["Step 1: l = 0<br/>right = 3"]
+  n3["Step 2: m = 1<br/>nums[m] = 3"]
+  n4["Step 3: m = 2<br/>nums[m] = 5"]
+  n5["Step 4: return 2<br/>target found"]
+  n6["Sample output<br/>2, index where target is found"]
+  inv["Invariant<br/>Array remains sorted"]
   n0 --> n1 --> n2 --> n3 --> n4 --> n5 --> n6
   inv -.-> n2
   inv -.-> n3
@@ -36,29 +36,29 @@ flowchart TD
 ### Approach
 
 1. Initialize two pointers, one at the start and one at the end of the array
-2. Calculate the middle index and compare the middle element to the target
-3. If the middle element matches the target, return its index
-4. If the middle element is greater than the target, move the right pointer to the left of the middle
-5. If the middle element is less than the target, move the left pointer to the right of the middle
-6. Repeat the comparison and pointer adjustment until the target is found or the correct insertion point is determined
+2. Calculate the middle index and compare the middle element with the target
+3. If the target is found, return the middle index
+4. If the target is less than the middle element, move the right pointer to the left
+5. If the target is greater than the middle element, move the left pointer to the right
+6. If the target is not found, return the left pointer as the insertion index
 
 ### Complexity
 
-- **Time:** O(log n), because the algorithm divides the search space in half with each iteration
-- **Space:** O(1), because the algorithm only uses a constant amount of space to store the pointers and the target
+- **Time:** O(log n) because binary search reduces the search space by half at each step
+- **Space:** O(1) because only a constant amount of space is used
 
 ### Complexity self-check
 
 - **Verdict:** optimal
 - **Intended:** O(log n) time and O(1) space
-- This is the best possible time complexity for searching a sorted array
+- This solution achieves the intended complexity
 
 ### Edge cases
 
-- An empty array
-- An array with a single element
-- An array with duplicate elements (not applicable in this case, since the problem states the array has distinct integers)
-- A target value that is less than the smallest element in the array
+- Empty array
+- Target is less than the smallest element
+- Target is greater than the largest element
+- Target is equal to an element in the array
 
 _AI-generated with Groq; verify the analysis before relying on it._
 
