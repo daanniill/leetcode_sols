@@ -2,17 +2,16 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**5 solved** · 4 easy · 0 medium · 0 hard · 2 languages
+**5 solved** · 4 easy · 0 medium · 0 hard · 3 languages
 
 ## Pattern coverage
 
+- Hash Table: 2
 - Array Iteration: 1
 - Arrays & Hashing: 1
 - Binary Search: 1
 - Carry Propagation: 1
-- Hash Table: 1
-- Hashmap: 1
-- Iteration: 1
+- Greedy Algorithm: 1
 - Stack: 1
 - String Replacement: 1
 
@@ -20,7 +19,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098518468/) | Easy | C++ |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098518654/) | Easy | JavaScript |
 | 0 | [Plus One](https://leetcode.com/problems/plus-one/submissions/2098510171/) | Easy | C++ |
 | 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2098508470/) | Unknown | C++ |
 | 0 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098491391/) | Easy | Code |
