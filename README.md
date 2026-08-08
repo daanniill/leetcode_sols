@@ -19,7 +19,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
-| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098518654/) | Easy | JavaScript |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/) | Easy | JavaScript |
 | 0 | [Plus One](https://leetcode.com/problems/plus-one/submissions/2098510171/) | Easy | C++ |
 | 0 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/submissions/2098508470/) | Unknown | C++ |
 | 0 | [Roman To Integer](https://leetcode.com/problems/roman-to-integer/submissions/2098491391/) | Easy | Code |

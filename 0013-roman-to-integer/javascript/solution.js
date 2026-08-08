@@ -1,3 +1,6 @@
+/**
+ * @param {string} s
+ * @return {number}
  */
 var romanToInt = function(s) {
     let res = 0;
@@ -18,6 +21,3 @@ var romanToInt = function(s) {
             res += roman[s[i]];
         }
     }
-
-    return res + roman[s[s.length - 1]];    
-};
