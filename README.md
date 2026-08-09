@@ -2,17 +2,20 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**1 solved** · 1 easy · 0 medium · 0 hard · 1 languages
+**2 solved** · 1 easy · 1 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
 - array iteration: 1
 - carry propagation: 1
+- String Comparison: 1
+- Two-Pointer Technique: 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/submissions/2099840524/) | Medium | Python3 |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/submissions/2099675269/) | Easy | C++ |
 
 ---
