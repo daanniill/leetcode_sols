@@ -2,11 +2,11 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**6 solved** · 3 easy · 0 medium · 0 hard · 2 languages
+**7 solved** · 4 easy · 0 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
-- Problem-specific reasoning: 4
+- Problem-specific reasoning: 5
 - element swapping: 1
 - Greedy selection of larger element: 1
 - In‑place array manipulation: 1
@@ -18,6 +18,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2113239734/) | Easy | Python3 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2113232894/) | Easy | Python3 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2113220242/) | Easy | Python3 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/2113213682/) | Easy | Python3 |
