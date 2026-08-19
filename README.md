@@ -2,7 +2,7 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**7 solved** · 4 easy · 0 medium · 0 hard · 2 languages
+**7 solved** · 5 easy · 0 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
@@ -18,11 +18,11 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2113249623/) | Easy | Python3 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2113239734/) | Easy | Python3 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2113232894/) | Easy | Python3 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2113220242/) | Easy | Python3 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/2113213682/) | Easy | Python3 |
-| 1 | [Two Sum](./0001-two-sum) | Unknown | Python3 |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](./3302-find-the-lexicographically-smallest-valid-sequence) | Unknown | Python3 |
 | 66 | [Plus One](./0066-plus-one) | Unknown | C++ |
 
