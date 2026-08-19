@@ -2,7 +2,7 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**8 solved** · 5 easy · 1 medium · 0 hard · 2 languages
+**9 solved** · 6 easy · 1 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
@@ -11,6 +11,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 - Greedy selection of larger element: 1
 - In‑place array manipulation: 1
 - in‑place array reversal: 1
+- Stack: 1
 - two‑pointer technique: 1
 - Two‑pointer technique (from the back): 1
 
@@ -18,6 +19,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2113271197/) | Easy | Python3 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/submissions/2113255411/) | Medium | Python3 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2113249623/) | Easy | Python3 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2113239734/) | Easy | Python3 |
