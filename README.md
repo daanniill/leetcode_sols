@@ -2,13 +2,14 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**10 solved** · 6 easy · 1 medium · 0 hard · 2 languages
+**11 solved** · 7 easy · 1 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
 - Problem-specific reasoning: 6
-- Stack: 2
+- Stack: 3
 - element swapping: 1
+- Graph Traversal: 1
 - Greedy selection of larger element: 1
 - In‑place array manipulation: 1
 - in‑place array reversal: 1
@@ -20,6 +21,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/2113282562/) | Easy | Python3 |
 | 0 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/2113277504/) | Unknown | Python3 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2113271197/) | Easy | Python3 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/submissions/2113255411/) | Medium | Python3 |
