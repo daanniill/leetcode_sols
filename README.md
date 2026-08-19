@@ -2,11 +2,11 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**4 solved** · 1 easy · 0 medium · 0 hard · 2 languages
+**5 solved** · 2 easy · 0 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
-- Problem-specific reasoning: 3
+- Problem-specific reasoning: 4
 - element swapping: 1
 - in‑place array reversal: 1
 - two‑pointer technique: 1
@@ -15,6 +15,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2113220242/) | Easy | Python3 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/2113213682/) | Easy | Python3 |
 | 1 | [Two Sum](./0001-two-sum) | Unknown | Python3 |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](./3302-find-the-lexicographically-smallest-valid-sequence) | Unknown | Python3 |
