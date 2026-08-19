@@ -2,11 +2,11 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**7 solved** · 5 easy · 0 medium · 0 hard · 2 languages
+**8 solved** · 5 easy · 1 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
-- Problem-specific reasoning: 5
+- Problem-specific reasoning: 6
 - element swapping: 1
 - Greedy selection of larger element: 1
 - In‑place array manipulation: 1
@@ -18,6 +18,7 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 15 | [3Sum](https://leetcode.com/problems/3sum/submissions/2113255411/) | Medium | Python3 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2113249623/) | Easy | Python3 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2113239734/) | Easy | Python3 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2113232894/) | Easy | Python3 |
