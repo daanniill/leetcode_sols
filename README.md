@@ -2,19 +2,23 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**5 solved** · 2 easy · 0 medium · 0 hard · 2 languages
+**6 solved** · 3 easy · 0 medium · 0 hard · 2 languages
 
 ## Pattern coverage
 
 - Problem-specific reasoning: 4
 - element swapping: 1
+- Greedy selection of larger element: 1
+- In‑place array manipulation: 1
 - in‑place array reversal: 1
 - two‑pointer technique: 1
+- Two‑pointer technique (from the back): 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2113232894/) | Easy | Python3 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2113220242/) | Easy | Python3 |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/2113213682/) | Easy | Python3 |
 | 1 | [Two Sum](./0001-two-sum) | Unknown | Python3 |
