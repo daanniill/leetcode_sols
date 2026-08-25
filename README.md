@@ -2,34 +2,29 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**11 solved** · 7 easy · 1 medium · 0 hard · 2 languages
+**13 solved** · 1 easy · 1 medium · 0 hard · 2 languages
 
-## Pattern coverage
+## Topic coverage
 
-- Problem-specific reasoning: 6
-- Stack: 3
-- element swapping: 1
-- Graph Traversal: 1
-- Greedy selection of larger element: 1
-- In‑place array manipulation: 1
-- in‑place array reversal: 1
-- Two Pointers: 1
-- two‑pointer technique: 1
-- Two‑pointer technique (from the back): 1
+- String: 2
+- Hash Table: 1
+- Math: 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
-| 232 | [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/submissions/2113282562/) | Easy | Python3 |
-| 0 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/2113277504/) | Unknown | Python3 |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2113271197/) | Easy | Python3 |
-| 15 | [3Sum](https://leetcode.com/problems/3sum/submissions/2113255411/) | Medium | Python3 |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2113249623/) | Easy | Python3 |
-| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2113239734/) | Easy | Python3 |
-| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2113232894/) | Easy | Python3 |
-| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2113220242/) | Easy | Python3 |
-| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/submissions/2113213682/) | Easy | Python3 |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/2120203555/) | Easy | Python3 |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman/submissions/2115739521/) | Medium | Python3 |
+| 232 | [Implement Queue Using Stacks](./0232-implement-queue-using-stacks) | Unknown | Python3 |
+| 0 | [Implement Stack Using Queues](./0000-implement-stack-using-queues) | Unknown | Python3 |
+| 20 | [Valid Parentheses](./0020-valid-parentheses) | Unknown | Python3 |
+| 15 | [3sum](./0015-3sum) | Unknown | Python3 |
+| 1 | [Two Sum](./0001-two-sum) | Unknown | Python3 |
+| 26 | [Remove Duplicates From Sorted Array](./0026-remove-duplicates-from-sorted-array) | Unknown | Python3 |
+| 88 | [Merge Sorted Array](./0088-merge-sorted-array) | Unknown | Python3 |
+| 125 | [Valid Palindrome](./0125-valid-palindrome) | Unknown | Python3 |
+| 344 | [Reverse String](./0344-reverse-string) | Unknown | Python3 |
 | 3302 | [Find The Lexicographically Smallest Valid Sequence](./3302-find-the-lexicographically-smallest-valid-sequence) | Unknown | Python3 |
 | 66 | [Plus One](./0066-plus-one) | Unknown | C++ |
 
