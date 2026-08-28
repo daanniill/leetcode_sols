@@ -2,24 +2,26 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**15 solved** · 2 easy · 2 medium · 0 hard · 2 languages
+**15 solved** · 3 easy · 2 medium · 0 hard · 2 languages
 
 ## Topic coverage
 
+- Hash Table: 2
 - Math: 2
 - String: 2
+- Array: 1
 - Backtracking: 1
 - Binary Tree: 1
 - Bit Manipulation: 1
 - Breadth-First Search: 1
 - Depth-First Search: 1
-- Hash Table: 1
 - Tree: 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2122553637/) | Easy | Python3 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/submissions/2121615020/) | Easy | Python3 |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/submissions/2120211440/) | Medium | Python3 |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/submissions/2120203555/) | Easy | Python3 |
@@ -28,7 +30,6 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 | 0 | [Implement Stack Using Queues](https://leetcode.com/problems/implement-stack-using-queues/submissions/2113277504/) | Unknown | Python3 |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/submissions/2113271197/) | Unknown | Python3 |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/submissions/2113255411/) | Unknown | Python3 |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2113249623/) | Unknown | Python3 |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2113239734/) | Unknown | Python3 |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/submissions/2113232894/) | Unknown | Python3 |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/submissions/2113220242/) | Unknown | Python3 |
