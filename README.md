@@ -2,7 +2,7 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**17 solved** · 4 easy · 3 medium · 0 hard · 2 languages
+**18 solved** · 4 easy · 4 medium · 0 hard · 2 languages
 
 ## Topic coverage
 
@@ -16,12 +16,14 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 - Bit Manipulation: 1
 - Breadth-First Search: 1
 - Depth-First Search: 1
-- Tree: 1
+- Design: 1
+- Stack: 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 155 | [Min Stack](https://leetcode.com/problems/min-stack/submissions/2150236891/) | Medium | Python3 |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/submissions/2150232380/) | Medium | Python3 |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/submissions/2150225288/) | Easy | Python3 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2122553637/) | Easy | Python3 |
