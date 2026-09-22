@@ -2,13 +2,13 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**15 solved** · 3 easy · 2 medium · 0 hard · 2 languages
+**16 solved** · 4 easy · 2 medium · 0 hard · 2 languages
 
 ## Topic coverage
 
+- String: 3
 - Hash Table: 2
 - Math: 2
-- String: 2
 - Array: 1
 - Backtracking: 1
 - Binary Tree: 1
@@ -16,11 +16,13 @@ Accepted LeetCode submissions, organized by problem and language and kept up to 
 - Breadth-First Search: 1
 - Depth-First Search: 1
 - Tree: 1
+- Two Pointers: 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/submissions/2150225288/) | Easy | Python3 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2122553637/) | Easy | Python3 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/submissions/2121615020/) | Easy | Python3 |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/submissions/2120211440/) | Medium | Python3 |
