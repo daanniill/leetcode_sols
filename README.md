@@ -2,26 +2,27 @@
 
 Accepted LeetCode submissions, organized by problem and language and kept up to date by LeetRepo.
 
-**16 solved** · 4 easy · 2 medium · 0 hard · 2 languages
+**17 solved** · 4 easy · 3 medium · 0 hard · 2 languages
 
 ## Topic coverage
 
+- Math: 3
 - String: 3
+- Array: 2
 - Hash Table: 2
-- Math: 2
-- Array: 1
+- Two Pointers: 2
 - Backtracking: 1
 - Binary Tree: 1
 - Bit Manipulation: 1
 - Breadth-First Search: 1
 - Depth-First Search: 1
 - Tree: 1
-- Two Pointers: 1
 
 ## Recent solutions
 
 | # | Problem | Difficulty | Language |
 | -: | --- | --- | --- |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/submissions/2150232380/) | Medium | Python3 |
 | 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/submissions/2150225288/) | Easy | Python3 |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/submissions/2122553637/) | Easy | Python3 |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/submissions/2121615020/) | Easy | Python3 |
